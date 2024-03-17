@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "288271871324",
+    "project_id": "emart-fe09a",
+    "storage_bucket": "emart-fe09a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288271871324:android:da17dacef4f275bd09a599",
+        "android_client_info": {
+          "package_name": "com.example.emart_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288271871324-surfghihqblm8tdmm1uhgq74gtuen5bs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emart_app",
+            "certificate_hash": "4c31f93f2ce605cb7e907f4d9dea28277e31738a"
+          }
+        },
+        {
+          "client_id": "288271871324-su1a8l01c2hn6npquls86a119fprv72n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOfG4M9VD2IWIAuCaFPCOFNNaxeapFhQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288271871324-su1a8l01c2hn6npquls86a119fprv72n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "288271871324-tefpgqk1i60ojffo20935rt0d6e06vhg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.emartApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288271871324:android:0a524ac66244f40e09a599",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288271871324-su1a8l01c2hn6npquls86a119fprv72n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOfG4M9VD2IWIAuCaFPCOFNNaxeapFhQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288271871324-su1a8l01c2hn6npquls86a119fprv72n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "288271871324-tefpgqk1i60ojffo20935rt0d6e06vhg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.emartApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
